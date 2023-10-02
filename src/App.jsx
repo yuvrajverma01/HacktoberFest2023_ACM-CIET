@@ -12,7 +12,7 @@ const Card = (props) => {
         Authorization: "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"
     }
   useEffect(() => {
-    axios.get(`https://api.github.com/users/${props.githubUsername}`)
+    axios.get(`https://api.github.com/users/${props.githubUsername}`,headers)
       .then((response) => {
         if (response.data.avatar_url) {
           setAvatarUrl(response.data.avatar_url);
@@ -28,7 +28,7 @@ const Card = (props) => {
       <div class="box1 box">
         <div class="content">
           <div class="image">
-            {/* <img src={avatarUrl} alt="Profile Image" /> */}
+            <img src={avatarUrl} alt="Profile Image" />
           </div>
 
           <div class="text">
