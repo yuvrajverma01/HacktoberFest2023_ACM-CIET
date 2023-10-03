@@ -62,7 +62,7 @@ function App() {
     <>
     <br />
     <div class="four">
-  <h1><span>The Xiting Way's</span><br />Hacking <em>Wizards</em></h1>
+  <h1><span>ACM's</span><br />Hacking <em>Wizards</em></h1>
 </div><br />
       <div className="main">
         {
