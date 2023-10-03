@@ -14,17 +14,21 @@ Welcome to HacktoberFest2023! We're excited to have you contribute to our open-s
    ```bash
    git clone https://github.com/[your-username]/HacktoberFest2023.git
 
-3. **Add your details in src/contributors/main.json**: Make sure not to delete or change any other thing, pull requests with conflicts won't be merged. Add your details as {
-  "name": "Your Name",
-  "avatar": "your-avatar.jpg",
-  "github": "your-github-username",
-  "bio": "A short bio about yourself"
-}
-and be sure to add commas after and before this js object
+3. **Add your details in src/contributors/main.json**: Make sure not to delete or change any other thing, pull requests with conflicts won't be merged. Add your details as:
+4.  #{
+        "githubUsername":"Aryainguz",
+        "role":"WEB MASTER - ACM CIET",
+        "school":"Chitkara University, Rajpura",
+        "twitter":"https://twitter.com/aryaninguz369",
+        "insta":"https://www.instagram.com/aryaninguz.py/",
+        "github":"https://github.com/Aryainguz",
+        "linkedin":"https://www.linkedin.com/in/aryan-inguz-b73150254/"
+    }
+and be sure to add commas before this js object and don't add any comma's after this object
 
-4. **Commit your changes**: Commit your changes with successfull and precise message
-5. **Create a Pull Request**: Then create a Pull Request with precise information and wait patiently for it to get merged.
-6. **Add extra feature**: Feel free to raise issues or solve existing one to recieve special goodies from us.
+5. **Commit your changes**: Commit your changes with successfull and precise message
+6. **Create a Pull Request**: Then create a Pull Request with precise information and wait patiently for it to get merged.
+7. **Add extra feature**: Feel free to raise issues or solve existing one to recieve special goodies from us.
 
 **Some Best PRs will recieve The Xiting Way Merchandise from us**
 
