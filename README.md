@@ -1,5 +1,6 @@
 # HacktoberFest2023
 # HacktoberFest-Accepted
+# ACM-CIET
 
 Welcome to HacktoberFest2023! We're excited to have you contribute to our open-source project. Please follow the guidelines below to contribute to our project.
 
@@ -30,10 +31,8 @@ and be sure to add commas before this js object and don't add any comma's after 
 6. **Create a Pull Request**: Then create a Pull Request with precise information and wait patiently for it to get merged.
 7. **Add extra feature**: Feel free to raise issues or solve existing one to recieve special goodies from us.
 
-**Some Best PRs will recieve The Xiting Way Merchandise from us**
-
 *Note: Have fun in this exciting open source space make sure to follow us on social and tag us on Twitter.*
 
-© The Xiting Way - www.TheXitingWay.com
+© ACM - CIET
 
 Maintained by Aryainguz [https://github.com/Aryainguz]
