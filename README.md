@@ -15,14 +15,14 @@ Welcome to HacktoberFest2023! We're excited to have you contribute to our open-s
    git clone https://github.com/[your-username]/HacktoberFest2023.git
 
 3. **Add your details in src/contributors/main.json**: Make sure not to delete or change any other thing, pull requests with conflicts won't be merged. Add your details as:
-4.  #{
-        "githubUsername":"Aryainguz",
-        "role":"WEB MASTER - ACM CIET",
-        "school":"Chitkara University, Rajpura",
-        "twitter":"https://twitter.com/aryaninguz369",
-        "insta":"https://www.instagram.com/aryaninguz.py/",
-        "github":"https://github.com/Aryainguz",
-        "linkedin":"https://www.linkedin.com/in/aryan-inguz-b73150254/"
+   # {
+        "githubUsername":"your github_username",
+        "role":"your role",
+        "school":"your school",
+        "twitter":"your twitter",
+        "insta":"your insta",
+        "github":"your github",
+        "linkedin":"your linkedin"
     }
 and be sure to add commas before this js object and don't add any comma's after this object
 
