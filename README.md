@@ -25,7 +25,7 @@ Welcome to HacktoberFest2023! We're excited to have you contribute to our open-s
         "github":"your github",
         "linkedin":"your linkedin"
    # }
-and be sure to add commas before this js object and don't add any comma's after this object
+# and be sure to add commas before this js object and don't add any comma's after this object
 
 5. **Commit your changes**: Commit your changes with successfull and precise message
 6. **Create a Pull Request**: Then create a Pull Request with precise information and wait patiently for it to get merged.
