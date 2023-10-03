@@ -9,7 +9,7 @@ const Card = (props) => {
   const [avatarUrl, setAvatarUrl] = useState(null);
 
    const headers = {
-        Authorization: "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"
+        Authorization: process.env.REACT_APP_GIT_KEY
     }
   useEffect(() => {
     axios.get(`https://api.github.com/users/${props.githubUsername}`,headers)
