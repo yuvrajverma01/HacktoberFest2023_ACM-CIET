@@ -24,7 +24,7 @@ Welcome to HacktoberFest2023! We're excited to have you contribute to our open-s
         "insta":"your insta",
         "github":"your github",
         "linkedin":"your linkedin"
-    }
+   # }
 and be sure to add commas before this js object and don't add any comma's after this object
 
 5. **Commit your changes**: Commit your changes with successfull and precise message
